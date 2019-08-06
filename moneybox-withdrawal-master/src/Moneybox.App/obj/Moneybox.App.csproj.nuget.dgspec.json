@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/Moneybox.App.csproj": {}
+  },
+  "projects": {
+    "/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/Moneybox.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/Moneybox.App.csproj",
+        "projectName": "Moneybox.App",
+        "projectPath": "/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/Moneybox.App.csproj",
+        "packagesPath": "/Users/louisebraddick/.nuget/packages/",
+        "outputPath": "/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/louisebraddick/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

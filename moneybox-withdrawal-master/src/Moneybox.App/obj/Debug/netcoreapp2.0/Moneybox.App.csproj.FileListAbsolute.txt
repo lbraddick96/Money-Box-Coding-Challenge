@@ -1,0 +1,9 @@
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/bin/Debug/netcoreapp2.0/Moneybox.App.deps.json
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/bin/Debug/netcoreapp2.0/Moneybox.App.dll
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/bin/Debug/netcoreapp2.0/Moneybox.App.pdb
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/Debug/netcoreapp2.0/Moneybox.App.csprojAssemblyReference.cache
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/Debug/netcoreapp2.0/Moneybox.App.csproj.CoreCompileInputs.cache
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/Debug/netcoreapp2.0/Moneybox.App.AssemblyInfoInputs.cache
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/Debug/netcoreapp2.0/Moneybox.App.AssemblyInfo.cs
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/Debug/netcoreapp2.0/Moneybox.App.dll
+/Users/louisebraddick/Desktop/moneybox-withdrawal-master/src/Moneybox.App/obj/Debug/netcoreapp2.0/Moneybox.App.pdb
